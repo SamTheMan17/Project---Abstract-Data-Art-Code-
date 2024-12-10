@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Comparison_of_orbital_rocket_engines
 
 UML Diagram:
 
-![image](https://github.com/user-attachments/assets/c1613c75-4c30-46cb-99aa-29acbc124c6d)
+![image](https://github.com/user-attachments/assets/c9daefe4-1b6e-4cf1-b603-cbbd763b4084)
 
 Video Demo:
 
